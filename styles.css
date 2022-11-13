@@ -1,2 +1,35 @@
+td {
+    font-size: 14px;
+    border: 1px solid #333;
+}
 
-/* Your CSS Code here. */
+.chart {
+    border: 1px solid #333;
+}
+
+thead tr td,
+.category {
+    padding: 0 80px 0 0;
+}
+
+tbody tr td {
+    padding-left: 80px;
+}
+
+thead {
+    background-color: #c0504d;
+    color: #e5e5e7;
+}
+
+.row1 {
+    background-color: #da9694;
+    color: #e5e5e7;
+}
+
+.row2 {
+    background-color: #f2dcdb;
+}
+
+.row3 {
+    background-color: #d9d9d9;
+}
